@@ -1,0 +1,7 @@
+[package]
+name = "midi-reader"
+version = "0.1.0"
+authors = ["Noah Craig <noahcraig123@gmail.com>"]
+
+[dependencies]
+error-chain = "0.11.0"
